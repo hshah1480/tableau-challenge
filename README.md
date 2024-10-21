@@ -16,7 +16,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 
 
-# Please view visualisations and dashboards in full screen.
+**Please view visualisations and dashboards in full screen.
 
 
 # Analysis
